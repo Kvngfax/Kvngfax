@@ -1,6 +1,6 @@
 # Hi, I'm Abdulbasit Fasasi
 
-**AI Systems Builder & Full-Stack Developer — Lagos, Nigeria**
+**AI Systems Builder & Full-Stack Developer. Lagos, Nigeria**
 
 I build agentic AI systems and ship the full-stack software around them, from research to production.
 
