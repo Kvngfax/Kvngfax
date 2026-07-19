@@ -15,4 +15,5 @@ I build agentic AI systems and ship the full-stack software around them, from re
 ### Reach me
 [Portfolio](https://abdulbasitfasasi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fasasiabdulbasit23) · abdulbasit_fasasi@outlook.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kvngfax&show_icons=true&hide=issues&locale=en" alt="stats" />
+![First Class](https://img.shields.io/badge/First_Class-CGPA_4.86%2F5.00-1f4d4d)
+![Delay Recovery](https://img.shields.io/badge/Delay_Pipeline-F1_0.96-b5451f)
